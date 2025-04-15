@@ -1,4 +1,4 @@
-# Talku Talku V3 (final version) 💬
+# KaveTalk V3 (final version) 💬
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-3.0.1-blue.svg?cacheSeconds=2592000" />
@@ -11,8 +11,7 @@ Ever wanted to communicate with friends in real-time and you worry about accessi
  
 Talku Talku is a Realtime private Chat Application that runs majorly on the web, might metamorphose into apps to run on other platforms. Its a minimalistic platform where users can come, join rooms with other frineds/users to talk about all kinds of chit chat with real time experience.
  
-### ✨ [Live Demo](https://talku-talku-v3.vercel.app)
-
+### ✨ [Live Demo](https://kave-talk-liart.vercel.app)
 
 ## Problems Talked Down on
 🪡 Accessibility: Giving web-based chat apps more power with the leverage of been accessed from any device with an internet connection, giving users greater flexibility and convenience.
@@ -26,16 +25,6 @@ Talku Talku is a Realtime private Chat Application that runs majorly on the web,
 🪡 SEO Benefits: Web-based chat apps can help improve website traffic and visibility through search engine optimization (SEO), as they can be optimized for specific keywords.
 
 to name a few...
-
-
-
-## Support is contiguous 
-
-Leave a ⭐️ If this project got you going!
-<p>
-  <a href="https://www.buymeacoffee.com/VinylDavyl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/VinylDavyl" /></a>
-</p>
-<br /><br /><br />
 
 ## Stack
 Built on the MERN Stack with `NodeJs` `TypeScript` `ReactJs` `Express` `Styled-Components` `SocketIo` and `MongoDB` DB systems for Database Management and storage.
@@ -69,7 +58,4 @@ Built on the MERN Stack with `NodeJs` `TypeScript` `ReactJs` `Express` `Styled-C
 
 ## Author
 
-👤 **Vinyl Davyl** <br/>
-Leave a ⭐️ If this project got you going!
-- Website: https://vinyldavyl.netlify.app
-- Twitter: [@Vinylchi](https://twitter.com/Vinylchi)
+work-account
