@@ -9,7 +9,7 @@
 
 Ever wanted to communicate with friends in real-time and you worry about accessibility, compatibility, customization, and cost-effectiveness or having to download an app most times, TalkuTalku is that platform 🎉
  
-Talku Talku is a Realtime private Chat Application that runs majorly on the web, might metamorphose into apps to run on other platforms. Its a minimalistic platform where users can come, join rooms with other frineds/users to talk about all kinds of chit chat with real time experience.
+KaveTalk is a Realtime private Chat Application that runs majorly on the web, might metamorphose into apps to run on other platforms. Its a minimalistic platform where users can come, join rooms with other frineds/users to talk about all kinds of chit chat with real time experience.
  
 ### ✨ [Live Demo](https://kave-talk-liart.vercel.app)
 
